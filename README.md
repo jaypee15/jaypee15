@@ -4,12 +4,12 @@ Hi 👋  My name is Okoye Johnpaul
 Fullstack Developer
 -------------------
 
-I have been coding for some years now, started with frontend development but have really found my passion in backend.
+I have been coding for some years now, started with frontend development but found my passion in backend but I still love doing the whole thing. 😊
 
-I love to build.
+I build.
 
 * ✉️  You can contact me at [okoyejohnpaul15@gmail.com](mailto:okoyejohnpaul15@gmail.com)
-* 🤝  I'm open to collaborating on Python, Django, FastAPI and Java projects
+* 🤝  I'm open to collaborating on Python, Django, JavaScript and NodeJs projects
 
 ### Skills
 
