@@ -4,17 +4,18 @@ Hi 👋  My name is Johnpaul Okoye
 Backend Heavy Fullstack Developer
 -------------------
 
-I have been coding for some years now, started with frontend development but found my passion in backend but I still love doing the whole thing. 😊
+I have been coding for some years now, started with frontend development but found my groove in the backend side of things, but I still love doing the whole thing. 😊
 
 I build.
 
 * ✉️  You can contact me at [okoyejohnpaul15@gmail.com](mailto:okoyejohnpaul15@gmail.com)
-* 🤝  I'm open to collaborating on JavaScript, TypeScript and NodeJs projects
+* 🤝  I'm open to collaborating on Rust, JavaScript, TypeScript and NodeJs projects
 * Find me on X where I shipost [twiiter/X](x.com/johnofpaul)
 
 ### Skills
 
 
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <p align="left">
